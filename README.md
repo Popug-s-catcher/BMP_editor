@@ -1,2 +1,2 @@
-# BMP_editor
-BMP image editor programm
+# BMP editor
+BMP image editor program

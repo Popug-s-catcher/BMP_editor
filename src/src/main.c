@@ -2,9 +2,11 @@
 #include <stdlib.h>
 #include <getopt.h>
 #include <ctype.h>
-#include "rectangle.h"
-#include "frame.h"
-#include "rotation.h"
+#include "config/configs.h"
+#include "config/AuxFunc.h"
+#include "functions/rectangle.h"
+#include "functions/frame.h"
+#include "functions/rotation.h"
 
 
 

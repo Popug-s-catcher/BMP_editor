@@ -1,5 +1,5 @@
-#include "configs.h"
-#include "AuxFunc.h"
+#include "../config/configs.h"
+#include "../config/AuxFunc.h"
 
 Rgb** rotate_90(Rgb **arr, Rgb **tmp, unsigned int left, unsigned int top, unsigned int right, unsigned int bottom);
 

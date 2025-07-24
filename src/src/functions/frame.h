@@ -1,5 +1,5 @@
-#include "configs.h"
-#include "AuxFunc.h"
+#include "../config/configs.h"
+#include "../config/AuxFunc.h"
 
 void pattern_frame(Rgb **arr, unsigned int W, unsigned int H, struct Configs arg);
 
